@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+    font-size: 50px;
+}
+h2 {
+    color: green;
+    font-size: 10px;
+}
+h1, h2 {
+    color: purple;
+}
+li.GOAT {
+    color: orange;
+
+}
+li {
+
+color: olivedrab;
+}
